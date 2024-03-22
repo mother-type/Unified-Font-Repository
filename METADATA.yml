@@ -3,6 +3,7 @@ unified_font_repository_version: "0.3"
 unified_font_repository_url: https://github.com/raphaelbastide/Unified-Font-Repository/
 typeface_family:
   name: Demo
+  desccription: description goes here
   tags:
   - sans-serif
   - pixel
