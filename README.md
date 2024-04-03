@@ -34,6 +34,6 @@ http://scripts.sil.org/OFL
 
 ## Repository Layout
 
-This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository).
+This repository is a fork of [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository). There are only minor changes between this repository and the main one, mostly in the `METADATA.yml` file to ease pulling in data to the main site. Feel free to fork this one or the other. 
 
-Read more about this [project](https://github.com/raphaelbastide/Unified-Font-Repository/blob/master/ABOUT.en_us.md)
+ 
