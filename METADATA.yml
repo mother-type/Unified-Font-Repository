@@ -1,7 +1,7 @@
 ---
-unified_font_repository_version: "0.3"
-unified_font_repository_url: https://github.com/raphaelbastide/Unified-Font-Repository/
-typeface_family:
+unified-font-repository-version: "0.3"
+unified-font-repository-url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface-family:
   name: Demo
   desccription: description goes here
   tags:
@@ -13,23 +13,23 @@ typeface_family:
   - monospace
   - incomplete
   - decorative
-  repository_url: https://github.com/user/Demo
-  project_url: https://website.com/demofontproject
+  repository-url: https://github.com/user/Demo
+  project-url: https://website.com/demofontproject
   tools:
   - Inkscape
   - Fontforge
-  similar_fonts:
+  similar-fonts:
   - Helvetica
   - Neue Haas Grotesk
   designer: 
   - name: demoname
   - url: https://sample.com
-  writing_systems: 
+  writing-systems: 
   - Latin
   published: 
   - 2023
   license: 
   - SIL Open Font License, Version 1.1
-  sample_text:
+  sample-text:
   - en_us: The quick brown fox jumps over the lazy dog
 ...
