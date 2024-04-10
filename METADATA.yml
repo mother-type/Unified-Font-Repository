@@ -2,19 +2,16 @@
 unified-font-repository-version: "0.3"
 unified-font-repository-url: https://github.com/raphaelbastide/Unified-Font-Repository/
 typeface-family:
-  name: Demo
-  desccription: description goes here
+  name: Oysters
+  desccription: A decorative typeface inspired by oysters
   tags:
   - sans-serif
   - pixel
-  - 80s
-  - condesed
-  - grotesque
   - monospace
   - incomplete
   - decorative
-  repository-url: https://github.com/user/Demo
-  project-url: https://website.com/demofontproject
+  repository-url: https://github.com/mother-type/Oyster
+  project-url: https://mother-type.de/oysters
   tools:
   - Inkscape
   - Fontforge
@@ -22,8 +19,8 @@ typeface-family:
   - Helvetica
   - Neue Haas Grotesk
   designer: 
-  - name: demoname
-  - url: https://sample.com
+  - name: printer_scanner
+  - url: https://printerscanner.net
   writing-systems: 
   - Latin
   published: 
